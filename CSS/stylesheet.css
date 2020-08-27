@@ -101,22 +101,22 @@ padding: 50px 0 20px;
   height: 200px;
 }
 .top-cloud{
-  width: 175px;
-    height: 120px;
-    position: absolute;
-    right: 200px;
-    top: 50px:
+ width: 10.9rem;
+ height: 7.5rem;
+ position: absolute;
+ left: 12.5rem
+ bottom: 31.25rem
 }
 .mountain{
   width: 900px;
   height: 500px;
 }
 .bottom-cloud{
-  width: 175px;
- height: 120px;
+  width: 10.9rem;
+ height: 7.5rem;
  position: absolute;
- left: 200px;
- bottom: 500px;
+ left: 12.5rem
+ bottom: 31.25rem
 }
 
 .btn {
